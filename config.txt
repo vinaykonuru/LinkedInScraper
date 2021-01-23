@@ -1,14 +1,8 @@
-bobyaleefind@gmail.com
-collegealumnifinder
-
-
-yaleefindbob@gmail.com
-alumnifinder
+USERNAME HERE
+PASSWORD HERE
 
 
 
 
 
-
-
-email first, password second
+email first on first line, password on second
