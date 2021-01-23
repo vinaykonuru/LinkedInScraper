@@ -1,5 +1,5 @@
-USERNAME HERE
-PASSWORD HERE
+Username here
+Password here
 
 
 
